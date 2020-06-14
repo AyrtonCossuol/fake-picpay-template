@@ -1,16 +1,15 @@
 ## Sobre o projeto
 
-PicPay fake - .
-
+PicPay fake - Criação de um template clone do aplicativo PicPay com intuito de aprendizado pela criação de uma parte do template utilizando React Native junto com o Expo.
 
 Projeto desenvolvido pelas aulas disponiveis no [YouTube][yt] oferecida pelo [Mateus Silva][mt].
 
 ## Layout
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./imagens/Home-fake.png" width="200px">
+  <img alt="PicPay-fake" title="#PicPay-fake" src="./imagens/Home-fake.png" width="200px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./imagens/Carteira-fake.png" width="200px">
+  <img alt="PicPay-fake" title="#PicPay-fake" src="./imagens/Carteira-fake.png" width="200px">
 </p>
 
 
